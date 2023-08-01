@@ -2,12 +2,15 @@ title: Eugenio Calandrini, PhD # your name (or website title) here
 logo: "/images/20230625_123550_3.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Physicist, Data Analyst and R&D Project Manager.
-  Astronomer & Astrophotographer
+  <br>
+  Astronomer & Astrophotographer.
   <br><br>
   Possess a PhD in Bionanotechnology from the Italian Institute of Technology and a Master's Degree in Solid State Physics from the Sapienza University of Rome.
+  <br>
   Currently based in San Sebastian, Spain, as a Post Doc in the NanoOptics group of the CIC NanoGUNE
   <br><br>
   <a href="https://www.linkedin.com/in/e-calandrini/">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://scholar.google.com/citations?hl=en&user=_WTjBSEAAAAJ&view_op=list_works&sortby=pubdate">View My LinkedIn Profile</a>
     
 remote_theme: pages-themes/minimal@v0.2.0
