@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Scientific Projects 
 
-[Project 1 Title](/sample_page)
+[Observation of Phonon Polaritons in Wafer Scale films of Hexagonal Boron Nitride Prepared by Chemical Vapor Deposition](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Astronomy Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
