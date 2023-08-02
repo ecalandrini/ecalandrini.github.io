@@ -16,4 +16,13 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-ELT6FFE255 # your Google Analytics tracking ID here
+#google_analytics: G-ELT6FFE255 # your Google Analytics tracking ID here
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELT6FFE255"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ELT6FFE255');
+</script>
