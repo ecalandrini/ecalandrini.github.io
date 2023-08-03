@@ -35,7 +35,7 @@ This means that hundreds of K may be attainable with full infrared laser power.
 [Nanoporous gold 3D structures for mid-infrared molecular sensing](http://example.com/)
 <br>
 I extracted the dielectric permittivity of Nanoporous Gold from infrared spectroscopy measurements, since there was no record of its optical properties in the literature.
-Then, I plugged it in CST Studio Suite to simulate the size of the structure.
+Then, I plugged it in CST Studio Suite to simulate the size of the structures.
 Finally, I fabricated the structures in cleanroom using Focused Ion Beam milling. 
 <img src="images/toc_NPG.png?raw=true"/>
 
@@ -44,7 +44,7 @@ Finally, I fabricated the structures in cleanroom using Focused Ion Beam milling
 <br>
 These results were achieved within the framework of the EU project "GEMINI", which involved 5 european research groups.
 We demonstrated a doped concentration exceeding 10^20 cm^-3 with transport and infrared spectroscopy measurements.
-We simulated the size of linear antennas using Lumerical and the measured dielectric permittivity of the material.
+We simulated the size of linear antennas using Lumerical feeded with measured dielectric permittivity of the material.
 The final structures were fabricated with Reactive Ion Etching and were employed to perform a sensing essay of hazardous substances.
 <img src="images/toc_dopedGe.jpeg?raw=true"/>
 
