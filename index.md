@@ -4,33 +4,48 @@
 
 ### Scientific Projects 
 
-[Observation of Phonon Polaritons in Wafer Scale films of Hexagonal Boron Nitride Prepared by Chemical Vapor Deposition](/sample_page)
+[Observation of Phonon Polaritons in Wafer Scale films of Hexagonal Boron Nitride prepared by Chemical Vapor Deposition](/sample_page)
 <br>
-prova testo
+These results were achieved within the framework of the EU project "Graphene Flagship CORE 3".
+I wrote Python scripts to analyze infrared nanoscopy images and reflectivity spectra of the grown hexagonal boron nitride.
+I found that the performance of the grown hBN are similar to the exfoliated hBN, but with the advantage of large scale and controlled thickness offered by the growth technique.
+This open the possibility to employ 2D materials for mass production of photonics devices.
 <img src="images/toc_cvdhbn.png?raw=true"/>
 
 ---
 [Anharmonic lattice dynamics of MgO: implications for Earth and planetary science](/pdf/sample_presentation.pdf)
 <br>
-prova testo
+These results were achieved within the framework of the National French project "Matisse".
+I performed infrared spectroscopy and inelastic X-ray scattering of MgO at high pressure and high temperature in order to simulate the condition of the Earth mantle.
+The results of the experiment were confirmed by _ab-initio_ simulation using Quantum Expresso. 
+Then I used the simulation to extrapolate the results for pressure and temperature ranges impossible to realize in laboratory and to
+calculate quantities which are difficult to measure at these thermodynamic conditions, like the thermal conductivity.
 <img src="images/MgO_multiphonon_anharmonicity.png?raw=true"/>
 
 ---
 [Thermoplasmonics: generation and manipulation of nanoscale heating with metallic nanostructures](http://example.com/)
 <br>
-prova testo
+I used Gold nanostructures to create nanoheaters remotely operable with infrared laser beams.
+I demonstrated their efficiency eating a thin layer of PMMA, a polymer used for electron beam lithography.
+Combining infrared photoexpansion measurements and non linear COMSOL simulations, I obtained an incresement of 10 K at 20 mW of laser power.
+This means that hundreds of K may be attainable with full infrared laser power.
 <img src="images/toc_thermosplamonic.png?raw=true"/>
 
 ---
-[Nanoporous gold structures for mid-infrared molecular sensing](http://example.com/)
+[Nanoporous gold 3D structures for mid-infrared molecular sensing](http://example.com/)
 <br>
-prova testo
+I extracted the dielectric permittivity of Nanoporous Gold from infrared spectroscopy measurements, since there was no record of its optical properties in the literature.
+Then, I plugged it in CST Studio Suite to simulate the size of the structure.
+Finally, I fabricated the structures in cleanroom using Focused Ion Beam milling. 
 <img src="images/toc_NPG.png?raw=true"/>
 
 ---
 [Highly doped Germanium nanostructures for mid-infrared molecular sensing](http://example.com/)
 <br>
-prova testo
+These results were achieved within the framework of the EU project "GEMINI", which involved 5 european research groups.
+We demonstrated a doped concentration exceeding 10^20 cm^-3 with transport and infrared spectroscopy measurements.
+We simulated the size of linear antennas using Lumerical and the measured dielectric permittivity of the material.
+The final structures were fabricated with Reactive Ion Etching and were employed to perform a sensing essay of hazardous substances.
 <img src="images/toc_dopedGe.jpeg?raw=true"/>
 
 ---
