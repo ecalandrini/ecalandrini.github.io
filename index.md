@@ -63,9 +63,6 @@ A simple LED stripe in a 3D printed case.
 An attempt to replicate the "where2go" feature of meteoblue for spotting sites with clear and dark night skies.
 <br>
 <img src="images/tcc_movie.gif?raw=true"/>
-#- [Project 3 Title](http://example.com/)
-#- [Project 4 Title](http://example.com/)
-#- [Project 5 Title](http://example.com/)
 
 ---
 
