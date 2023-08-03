@@ -31,7 +31,7 @@ prova testo
 [Highly doped Germanium nanostructures for mid-infrared molecular sensing](http://example.com/)
 <br>
 prova testo
-<img src="images/toc_dopedGe.jpg?raw=true"/>
+<img src="images/toc_dopedGe.jpeg?raw=true"/>
 
 ---
 
