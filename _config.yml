@@ -12,7 +12,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/e-calandrini/">View My LinkedIn Profile</a> 
   <br>
   <a href="https://scholar.google.com/citations?hl=en&user=_WTjBSEAAAAJ&view_op=list_works&sortby=pubdate">View My Google Scholar Profile</a>
-    
+  <br>
+  <a href="https://www.strava.com/athletes/ecalandrini">View My Strava Profile</a>
+ 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
