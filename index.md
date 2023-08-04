@@ -37,9 +37,9 @@ calculate quantities which are difficult to measure at these thermodynamic condi
 ---
 [Thermoplasmonics: generation and manipulation of nanoscale heating with metallic nanostructures](http://example.com/)
 <br>
-I used Gold nanostructures to create nanoheaters remotely operable with infrared laser beams.
-I demonstrated their efficiency eating a thin layer of PMMA, a polymer used for electron beam lithography.
-Combining infrared photoexpansion measurements and non linear COMSOL simulations, I obtained an incresement of 10 K at 20 mW of laser power.
+I used Gold nanostructures to create nanoheaters remotely operables with infrared laser beams.
+I demonstrated their efficiency by heating a thin polymeric layer.
+Combining infrared photoexpansion measurements and non linear COMSOL simulations, I recorded an incresement of 10 K at 20 mW of laser power.
 This means that hundreds of K may be attainable with full infrared laser power.
 <img src="images/toc_thermosplamonic.png?raw=true"/>
 
@@ -55,7 +55,7 @@ Finally, I fabricated the structures in cleanroom using Focused Ion Beam milling
 [Highly doped Germanium nanostructures for mid-infrared molecular sensing](http://example.com/)
 <br>
 These results were achieved within the framework of the EU project "GEMINI", which involved 5 european research groups.
-We demonstrated a doped concentration exceeding 10^20 cm^-3 with transport and infrared spectroscopy measurements.
+We demonstrated a doping concentration exceeding 10^20 cm^-3 with transport and infrared spectroscopy measurements.
 We simulated the size of linear antennas using Lumerical feeded with measured dielectric permittivity of the material.
 The final structures were fabricated with Reactive Ion Etching and were employed to perform a sensing essay of hazardous substances.
 <img src="images/toc_dopedGe.jpeg?raw=true"/>
