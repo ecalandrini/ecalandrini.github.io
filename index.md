@@ -29,7 +29,7 @@ This open the possibility to employ 2D materials for mass production of photonic
 <br>
 These results were achieved within the framework of the National French project "Matisse".
 I performed infrared spectroscopy and inelastic X-ray scattering of MgO at high pressure and high temperature in order to simulate the condition of the Earth mantle.
-The results of the experiment were confirmed by _ab-initio_ simulation using Quantum Expresso. 
+The results of the experiments were confirmed by _ab-initio_ simulation using Quantum Expresso. 
 Then I used the simulation to extrapolate the results for pressure and temperature ranges impossible to realize in laboratory and to
 calculate quantities which are difficult to measure at these thermodynamic conditions, like the thermal conductivity.
 <img src="images/MgO_multiphonon_anharmonicity.png?raw=true"/>
@@ -73,7 +73,7 @@ Astropine is the result of the specific compilation of Astroberry, a system for 
 ---
 [GuideScope and Polar Alignement Aid Toolkit](http://example.com/)
 <br>
-I realized this lightweigth and cheap setup using an IMX290 Sony sensor and a 6-60mm CCTV objective enclosed in a 3D printed arca-swiss compatible case.
+I realized this lightweight and cheap setup using an IMX290 Sony sensor and a 6-60mm CCTV objective enclosed in a 3D printed arca-swiss compatible case.
 <br>
 <img src="images/guidescope2.jpg?raw=true"/>
 
