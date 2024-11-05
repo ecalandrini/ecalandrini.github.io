@@ -16,7 +16,7 @@
 
 ### Scientific Projects 
 
-[Observation of Phonon Polaritons in Wafer Scale films of Hexagonal Boron Nitride prepared by Chemical Vapor Deposition](/sample_page)
+[Observation of Phonon Polaritons in Wafer Scale films of Hexagonal Boron Nitride prepared by Chemical Vapor Deposition](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202302045)
 <br>
 These results were achieved within the framework of the EU project "Graphene Flagship CORE 3".
 I wrote Python scripts to analyze infrared nanoscopy images and reflectivity spectra of the grown hexagonal boron nitride.
@@ -25,7 +25,7 @@ This open the possibility to employ 2D materials for mass production of photonic
 <img src="images/toc_cvdhbn.png?raw=true"/>
 
 ---
-[Anharmonic lattice dynamics of MgO: implications for Earth and planetary science](/pdf/sample_presentation.pdf)
+[Anharmonic lattice dynamics of MgO: implications for Earth and planetary science](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.054302)
 <br>
 These results were achieved within the framework of the National French project "Matisse".
 I performed infrared spectroscopy and inelastic X-ray scattering of MgO at high pressure and high temperature in order to simulate the condition of the Earth mantle.
@@ -35,7 +35,7 @@ calculate quantities which are difficult to measure at these thermodynamic condi
 <img src="images/MgO_multiphonon_anharmonicity.png?raw=true"/>
 
 ---
-[Thermoplasmonics: generation and manipulation of nanoscale heating with metallic nanostructures](http://example.com/)
+[Thermoplasmonics: generation and manipulation of nanoscale heating with metallic nanostructures](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b03808)
 <br>
 I used Gold nanostructures to create nanoheaters remotely operables with infrared laser beams.
 I demonstrated their efficiency by heating a thin polymeric layer.
@@ -44,7 +44,7 @@ This means that hundreds of K may be attainable with full infrared laser power.
 <img src="images/toc_thermosplamonic.png?raw=true"/>
 
 ---
-[Nanoporous gold 3D structures for mid-infrared molecular sensing](http://example.com/)
+[Nanoporous gold 3D structures for mid-infrared molecular sensing](https://pubs.rsc.org/en/content/articlehtml/2017/nr/c6nr08231a)
 <br>
 I extracted the dielectric permittivity of Nanoporous Gold from infrared spectroscopy measurements, since there was no record of its optical properties in the literature.
 Then, I plugged it in CST Studio Suite to simulate the size of the structures.
@@ -52,7 +52,7 @@ Finally, I fabricated the structures in cleanroom using Focused Ion Beam milling
 <img src="images/toc_NPG.png?raw=true"/>
 
 ---
-[Highly doped Germanium nanostructures for mid-infrared molecular sensing](http://example.com/)
+[Highly doped Germanium nanostructures for mid-infrared molecular sensing](https://pubs.acs.org/doi/full/10.1021/acs.nanolett.5b03247)
 <br>
 These results were achieved within the framework of the EU project "GEMINI", which involved 5 european research groups.
 We demonstrated a doping concentration exceeding 10^20 cm^-3 with transport and infrared spectroscopy measurements.
