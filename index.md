@@ -71,8 +71,9 @@ I had the chance to collaborate with the galician assosiacion of mental health f
 <img src="images/caracola_milkyway2.png?raw=true"/>
 
 ---
-[Decoding weather satellite images](http://example.com/)
+[Radio Satellite Imagery](https://www.tabakalera.eus/es/radiofotografia-por-satelite)
 <br>
+I participated to the activities of the Astronomy group of the Tabakalera Media Lab and I heard about the [Open-Weather](https://open-weather.community/) project by the Sophie Dyer and Sasha Engelmann... it literally blew me away.
 Sometimes the weather is cloudy and I have fun with a software defined radio dongle and a couple of bandpass filter and amplifier.
 <br>
 <img src="images/avhrr_3_rgb_MCIR_(Uncalibrated)_map.png?raw=true"/>
