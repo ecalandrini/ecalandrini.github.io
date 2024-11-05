@@ -64,6 +64,26 @@ The final structures were fabricated with Reactive Ion Etching and were employed
 
 ### Astronomy Projects
 
+[Cover of the journal "Siso-Saúde - Boletín Da Asociación Galega De Saúde Mental"](https://aen.es/wp-content/uploads/2023/09/SISO-SAUDE-68-69-baixa-resoluci%C3%B3n.pdf)
+<br>
+I had the chance to collaborate with the galician assosiacion of mental health for the cover of the volume no 68-69.
+<br>
+<img src="images/caracola_milkyway2.png?raw=true"/>
+
+---
+[Decoding weather satellite images](http://example.com/)
+<br>
+Sometimes the weather is cloudy and I have fun with a software defined radio dongle and a couple of bandpass filter and amplifier.
+<br>
+<img src="images/avhrr_3_rgb_MCIR_(Uncalibrated)_map.png?raw=true"/>
+
+---
+[Wheater Forecast and Light Pollution data correlation for spotting astrophotography sites](http://example.com/)
+<br>
+An attempt to replicate the "where2go" feature of meteoblue for spotting sites with clear and dark night skies.
+<br>
+<img src="images/tcc_movie.gif?raw=true"/>
+
 [Astropine: Astroberry + Pine A64](http://example.com/)
 <br>
 Astropine is the result of the specific compilation of Astroberry, a system for controlling astronomy equipment, on a Pine A64 single board computer.
@@ -84,12 +104,7 @@ A simple LED stripe in a 3D printed case.
 <br>
 <img src="images/flatbox.jpg?raw=true"/>
 
----
-[Wheater Forecast and Light Pollution data correlation for spotting astrophotography sites](http://example.com/)
-<br>
-An attempt to replicate the "where2go" feature of meteoblue for spotting sites with clear and dark night skies.
-<br>
-<img src="images/tcc_movie.gif?raw=true"/>
+
 
 ---
 
